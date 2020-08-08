@@ -6,20 +6,18 @@ author_profile: true
 ---
 ---
 **Office**  
-Calhoun Hall 421
+431 Uris Hall
 
 **Mailing address**  
 Department of Economics  
-Vanderbilt University  
-VU Station B #351819  
-2301 Vanderbilt Place  
-Nashville, TN 37235-1819
+Cornell University  
+Ithaca, NY 14853
 
 **Email address**  
-[malin [_dot_] hu [_at_] vanderbilt [_dot_] edu](mailto:malin.hu@vanderbilt.edu)
+[aa2335 [_at_] cornell [_dot_] edu](mailto:aa2335@cornell.edu)
 
 **Phone**  
-(615) 322-1390
+(607) 216-2315
 
 **Office hours**  
 Tuesday 3:00pm - 5:00pm
