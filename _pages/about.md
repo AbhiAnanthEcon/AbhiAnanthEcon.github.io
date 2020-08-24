@@ -10,7 +10,7 @@ redirect_from:
 ---
 I am a PhD candidate in the department of Economics at Cornell University.
 
-My reserach focuses on econometric problems arising in networks and industrial organization. Since, I am Indian, I also have a theory paper in development economics ;).
+My reserach focuses on econometric problems arising in networks and industrial organization. 
 
 In my job market paper, I study the optimal allocation of a limited number of vaccines among memebers of a networked population in the presence of spillovers.
 
