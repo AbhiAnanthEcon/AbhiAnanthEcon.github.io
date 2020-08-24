@@ -9,7 +9,7 @@ author_profile: true
 
 **[Job Market Paper: Optimal allocation of treatments on networked populations](https://malin-hu.github.io/files/MH_JMP.pdf)** 
 
-**[Who pays? Inefficiencies Arising from Pressure in Joint Liability Lending Microfinance Programs]
+**[Who pays? Inefficiencies Arising from Pressure in Joint Liability Lending Microfinance Programs]**
 
 ## Works in Progress
 
