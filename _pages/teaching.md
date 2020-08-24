@@ -5,13 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 ---
-## Current Teaching (Fall 2020)
-ECON 3022-02 Macroeconomics (undergraduate)  
-Wilson Hall 113, TR 9:35am - 10:50am  
-
-ECON 3022-03 Macroeconomics (undergraduate)  
-Wilson Hall 113, TR 11:10am - 12:25pm  
 
 ## Past Teaching
-ECON 3020 Intermediate Macroeconomic Theory (undergraduate), Spring 2020  
-ECON 9210 Topics in Macroeconomics (Ph.D.), Fall 2019  
+Econ 3120 Applied Econometrics (undergraduate), Cornell University (Fall 2017, Fall and Spring 2018)
+
+Econ 3140 Econometrics (undergraduate), Cornell University (Spring 2017)
+
+Econ 6190 Mathematical Economics (graduate), Cornell University (Fall 2016)
+
+Economics B (undergraduate), LSE (2014-2015)
