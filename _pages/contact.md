@@ -20,6 +20,5 @@ Ithaca, NY 14853
 (607) 216-2315
 
 **Office hours**  
-Tuesday 3:00pm - 5:00pm
-
+TBD
 
