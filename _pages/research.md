@@ -15,4 +15,6 @@ author_profile: true
 
 **Sharp Identification Region from Pairwise Stable Networks** with Francesca Molinari
 
-**The consumption insurance role of homeownership** with Francesca Molinari and Sida Peng
+**Optimal Seeding of Office Lite on Collaborator Network** with Francesca Molinari and Sida Peng
+
+**The Effect of Evictions in the Azure Spot Market** with Francesca Molinari, Sida Peng and Will Wang
