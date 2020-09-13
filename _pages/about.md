@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abhishek Ananth (Abhi)"
+title: "Abhishek Ananth"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
