@@ -18,3 +18,5 @@ Econ 3140 Econometrics (undergraduate), Cornell University ([Spring 2017](http:/
 Econ 6190 Mathematical Economics (graduate), Cornell University ([Fall 2016](http://AbhiAnanthEcon.github.io/files/Fall_2016.pdf))
 
 Economics B (undergraduate), LSE (2014-2015)
+
+## Awards and Honors
