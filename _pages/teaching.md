@@ -7,11 +7,11 @@ author_profile: true
 ---
 
 ## Current Teaching
-Econ 2040 Networks (undergrduate), Cornell University (Fall 2020)
+Econ 2040 Networks (undergraduate), Cornell University (Fall 2020)
 
 ## Past Teaching
-Econ 3120 Applied Econometrics (undergraduate), Cornell University ([Fall 2017](http://AbhiAnanthEcon.github.io/files/Fall_2017.pdf)  
-, [Fall 2018](http://AbhiAnanthEcon.github.io/files/Fall_2018.pdf) and [Spring 2018](http://AbhiAnanthEcon.github.io/files/Spring_2018.pdf))
+Econ 3120 Applied Econometrics (undergraduate), Cornell University ([Fall 2017](http://AbhiAnanthEcon.github.io/files/Fall_2017.pdf), 
+[Fall 2018](http://AbhiAnanthEcon.github.io/files/Fall_2018.pdf) and [Spring 2018](http://AbhiAnanthEcon.github.io/files/Spring_2018.pdf))
 
 Econ 3140 Econometrics (undergraduate), Cornell University ([Spring 2017](http://AbhiAnanthEcon.github.io/files/Spring_2017.pdf))
 
