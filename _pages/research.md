@@ -9,7 +9,7 @@ author_profile: true
 
 **[Job Market Paper: Optimal allocation of treatments on networked populations](http://AbhiAnanthEcon.github.io/files/Ananth_JMP_draft.pdf)** 
 
-**[Who pays? Inefficiencies Arising from Pressure in Joint Liability Lending Microfinance Programs](http://AbhiAnanthEcon.github.io/files/new lotteries.pdf)**
+**[Who pays? Inefficiencies Arising from Pressure in Joint Liability Lending Microfinance Programs](http://AbhiAnanthEcon.github.io/files/Ananth_microfinance.pdf)**
 
 ## Works in Progress
 
