@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 ---
-
-[[Full size picture](http://AbhiAnanthEcon.github.io/files/AAnanth.jpg)]
+<img src="http://AbhiAnanthEcon.github.io/files/AAnanth.jpg" alt="hi" class="inline"/>
 
 I am a PhD candidate in the department of Economics at Cornell University.
 
