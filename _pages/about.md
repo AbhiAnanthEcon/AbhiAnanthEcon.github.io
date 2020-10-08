@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 ---
+
+[AAnanth.jpg]
+
 I am a PhD candidate in the department of Economics at Cornell University.
 
 My research focuses on econometric problems arising in networks and industrial organization. 
