@@ -9,7 +9,7 @@ redirect_from:
 ---
 ---
 
-[AAnanth.jpg]
+[(http://AbhiAnanthEcon.github.io/files/AAnanth.jpg]
 
 I am a PhD candidate in the department of Economics at Cornell University.
 
