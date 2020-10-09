@@ -12,7 +12,7 @@ redirect_from:
 
 I am a PhD candidate in the department of Economics at Cornell University.
 
-My research focuses on econometric problems arising in networks and industrial organization. 
+I am an econometrician focusing on problems arising in networks and industrial organization. 
 
 In my job market paper, I study the optimal allocation of a limited number of vaccines among members of a networked population in the presence of spillovers.
 
