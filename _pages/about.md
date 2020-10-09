@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 ---
+
 <img src="http://AbhiAnanthEcon.github.io/images/AAnanth.jpg" style="width: 25vw; min-width: 330px;" alt="hi" class="inline"/>
 
 I am a PhD candidate in the department of Economics at Cornell University.
