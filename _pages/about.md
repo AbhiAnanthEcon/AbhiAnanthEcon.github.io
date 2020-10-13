@@ -19,4 +19,4 @@ In my job market paper, I study the optimal allocation of a limited number of va
 
 I am working under the supervision of Francesca Molinari (chair), Larry Blume, David Easley and Jörg Stoye.
 
-**I will be available for interviews at the EEA Annual Meeting (Date TBD), CEEE Meeting (Date TBD) and the ASSA Annual Meeting (January 2nd-4th, 2021).**
+**I will be available for interviews at the EEA EJM 2020 (December 14th-18th, 2020), CEEE Meeting (Date TBD) and the ASSA Annual Meeting (January 2nd-4th, 2021).**
