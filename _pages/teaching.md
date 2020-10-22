@@ -20,6 +20,6 @@ Econ 6190 Mathematical Economics (graduate), Cornell University ([Fall 2016](htt
 Economics B (undergraduate), LSE (2014-2015)
 
 ## Awards and Honors
-Howard and Abbey Milstein Graduate Teaching Award, 2017
+Howard and Abby Milstein Graduate Teaching Award, 2017
 
-Howard and Abbey Milstein Graduate Teaching Assistantship, 2020
+Howard and Abby Milstein Graduate Teaching Assistantship, 2020
