@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Working Papers
 
-**[Job Market Paper: Optimal allocation of treatments on networked populations](http://AbhiAnanthEcon.github.io/files/Ananth_JMP_draft.pdf)** 
+**[Job Market Paper: Optimal Treatment Assignment Rules on Networked Populations](http://AbhiAnanthEcon.github.io/files/Ananth_JMP_draft.pdf)** 
 
 *Abstract:*
 
