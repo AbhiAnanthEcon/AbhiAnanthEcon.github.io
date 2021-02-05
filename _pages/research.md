@@ -27,6 +27,7 @@ In this paper, I present a game theoretic model of Joint Liability Lending (JLL)
 **The Effect of Evictions in the Azure Spot Market** with Francesca Molinari, Sida Peng and Will Wang
 
 ## Awards and Honors
+
 Tapan Mitra Economics Prize, 2018
 
 L.R. "Red" Wilson MA '67 Excellence in Economics Medal, 2018
