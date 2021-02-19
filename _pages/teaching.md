@@ -7,9 +7,14 @@ author_profile: true
 ---
 
 ## Current Teaching
-Econ 2040 Networks (undergraduate), Cornell University (Fall 2020)
+Econ 6100 Microeconomic Theory II (graduate), Cornell University (Spring 2021)
+Section 1 [material](http://AbhiAnanthEcon.github.io/files/Section1.pdf)
+
+
 
 ## Teaching Assistant Experience
+Econ 2040 Networks (undergraduate), Cornell University (Fall 2020)
+
 Econ 3120 Applied Econometrics (undergraduate), Cornell University ([Fall 2017](http://AbhiAnanthEcon.github.io/files/Fall_2017.pdf), 
 [Fall 2018](http://AbhiAnanthEcon.github.io/files/Fall_2018.pdf) and [Spring 2018](http://AbhiAnanthEcon.github.io/files/Spring_2018.pdf))
 
