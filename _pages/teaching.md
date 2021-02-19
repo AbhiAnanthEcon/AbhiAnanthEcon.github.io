@@ -8,6 +8,7 @@ author_profile: true
 
 ## Current Teaching
 Econ 6100 Microeconomic Theory II (graduate), Cornell University (Spring 2021)
+
 Section 1 [material](http://AbhiAnanthEcon.github.io/files/Section1.pdf)
 
 
