@@ -11,6 +11,7 @@ Econ 6100 Microeconomic Theory II (graduate), Cornell University (Spring 2021)
 
 Section 1 [material](http://AbhiAnanthEcon.github.io/files/Section1.pdf) [annotated](http://AbhiAnanthEcon.github.io/files/Section1_annot.pdf)
 
+Section 2 [material](http://AbhiAnanthEcon.github.io/files/Section2.pdf) [annotated]()
 
 
 ## Teaching Assistant Experience
