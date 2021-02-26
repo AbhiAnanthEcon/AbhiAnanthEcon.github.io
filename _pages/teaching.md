@@ -9,9 +9,9 @@ author_profile: true
 ## Current Teaching
 Econ 6100 Microeconomic Theory II (graduate), Cornell University (Spring 2021)
 
-Section 1 [material](http://AbhiAnanthEcon.github.io/files/Section1.pdf) [annotated](http://AbhiAnanthEcon.github.io/files/Section1_annot.pdf)
+Section 1 [material](http://AbhiAnanthEcon.github.io/files/Section1.pdf) [annotated](http://AbhiAnanthEcon.github.io/files/Section1_annot.pdf)[link] (https://cornell.zoom.us/rec/share/9e9kzJXrwr7McT2KtSDaxMi3u9hnXvZBO8qsT3oQ6nQYj6-ree0d-KYfHDaerpn-.3ODzEJoJKwOUfbku?startTime=1613764144000)
 
-Section 2 [material](http://AbhiAnanthEcon.github.io/files/Section2.pdf) [annotated]()
+Section 2 [material](http://AbhiAnanthEcon.github.io/files/Section2.pdf) [annotated](http://AbhiAnanthEcon.github.io/files/Section2_annot.pdf) [link](https://cornell.zoom.us/rec/share/jghjer5kCyhMstQGTKBBjFEAKJpdMzbkVik2dGEG--afVvvWhJQBVrf3iVYYHxcI.9oKVW55LTFniuqtG?startTime=1614368837000)
 
 
 ## Teaching Assistant Experience
