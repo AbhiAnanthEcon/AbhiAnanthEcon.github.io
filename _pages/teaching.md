@@ -15,6 +15,8 @@ Section 2 [material](http://AbhiAnanthEcon.github.io/files/Section2.pdf) [annota
 
 Section 3 [material](http://AbhiAnanthEcon.github.io/files/Section3.pdf) [annotated](http://AbhiAnanthEcon.github.io/files/Section3_annot.pdf) [link](https://cornell.zoom.us/rec/share/tCosdt1-BS6t7_UsiN9iwBEKAHOpZ4O-nzhQ0VxK_3vcOVleR4vEXSiRcAVA4foo.FlfdA75p6KzuMECW?startTime=1614973559000)
 
+Section 4 [material](http://AbhiAnanthEcon.github.io/files/Section4.pdf) [annotated](http://AbhiAnanthEcon.github.io/files/Section4_annot.pdf) [link]()
+
 ## Teaching Assistant Experience
 Econ 2040 Networks (undergraduate), Cornell University (Fall 2020)
 
