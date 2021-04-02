@@ -25,7 +25,7 @@ Section 6 [material](http://AbhiAnanthEcon.github.io/files/Section6.pdf) [annota
 
 [PS3 solutions](http://AbhiAnanthEcon.github.io/files/PS3_s.pdf)
 
-Section 7[material](http://AbhiAnanthEcon.github.io/files/Section7.pdf) [annotated](http://AbhiAnanthEcon.github.io/files/Section7_annot.pdf) [link]() 
+Section 7 [material](http://AbhiAnanthEcon.github.io/files/Section7.pdf) [annotated](http://AbhiAnanthEcon.github.io/files/Section7_annot.pdf) [link]() 
 
 ## Teaching Assistant Experience
 Econ 2040 Networks (undergraduate), Cornell University (Fall 2020)
