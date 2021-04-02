@@ -21,7 +21,7 @@ Section 5 [material](http://AbhiAnanthEcon.github.io/files/Section5.pdf) [annota
 
 [PS2 solutions](http://AbhiAnanthEcon.github.io/files/PS2_s.pdf)
 
-Section 6 [material](http://AbhiAnanthEcon.github.io/files/Section6.pdf) [annotated](http://AbhiAnanthEcon.github.io/files/Section6_annot.pdf) [corrected](http://AbhiAnanthEcon.github.io/files/Section6_corr.pdf) [link](https://cornell.zoom.us/rec/share/0-_JfuhrcZ_LX9hZSI3_JXL8LSaSnGP-ab1ooyyx5L6w6lZ5IuulHrawVuMD8cSA.MJNed-xpPGjuhBN0?startTime=1616784372000) 
+Section 6 [material](http://AbhiAnanthEcon.github.io/files/Section6.pdf) [annotated](http://AbhiAnanthEcon.github.io/files/Section6_annot.pdf) [link](https://cornell.zoom.us/rec/share/0-_JfuhrcZ_LX9hZSI3_JXL8LSaSnGP-ab1ooyyx5L6w6lZ5IuulHrawVuMD8cSA.MJNed-xpPGjuhBN0?startTime=1616784372000) 
 
 [PS3 solutions](http://AbhiAnanthEcon.github.io/files/PS3_s.pdf)
 
