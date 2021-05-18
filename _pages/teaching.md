@@ -37,6 +37,8 @@ Section 11 [material](http://AbhiAnanthEcon.github.io/files/Section11.pdf) [anno
 
 Section 12 [material](http://AbhiAnanthEcon.github.io/files/Section15.pdf) [annotated](http://AbhiAnanthEcon.github.io/files/Section15_annot.pdf) [link](https://cornell.zoom.us/rec/share/cjl_NKCpHNBNTwTqxL1fFtlo3DDd9W6CJyvqUAo0_1dgS-ssU3d4VExMCDSZoXM-.xAB9HOtBhnhai3UO?startTime=1621018035000)
 
+[PS7 solutions](http://AbhiAnanthEcon.github.io/files/PS7.pdf)
+
 ## Teaching Assistant Experience
 Econ 2040 Networks (undergraduate), Cornell University (Fall 2020)
 
