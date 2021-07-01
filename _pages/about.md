@@ -17,4 +17,4 @@ In my job market paper, I study the optimal allocation of a limited number of va
 
 I completed my PhD at Cornell University under the supervision of Francesca Molinari (chair), Larry Blume, David Easley and Jörg Stoye.
 
-**I am currently a postdoc at the Institute of Economics and Econometrics at the University of Geneva.  I will join the Emory QTM department as an assistant professor in the fall of 2022.**
+**I am currently a postdoc at the Institute of Economics and Econometrics in the University of Geneva.  I will be joining the Emory QTM department as an assistant professor in the fall of 2022.**
